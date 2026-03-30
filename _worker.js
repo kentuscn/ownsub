@@ -18,7 +18,7 @@ https://cfxr.eu.org/getSub
 
 let urls = [];
 let subConverter = "SUBAPI.cmliussss.net/"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
-let subConfig = "https://raw.githubusercontent.com/kentuscn/ShellCrash/refs/heads/dev/rules/ShellClash_Full.ini"; //订阅配置文件
+let subConfig = "https://raw.githubusercontent.com/kentuscn/ShellCrash/refs/heads/dev/rules/ShellClash.ini"; //订阅配置文件
 let subProtocol = 'https';
 
 export default {
