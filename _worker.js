@@ -17,7 +17,7 @@ https://cfxr.eu.org/getSub
 `;
 
 let urls = [];
-let subConverter = "psub.ipbest.556670.xyz"; //当前为自建在线订阅转换后端，SUBAPI.cmliussss.net为 CM 的订阅转换功能。自建 psub 教程https://github.com/bulianglin/psub
+let subConverter = "psub.556670.xyz"; //当前为自建在线订阅转换后端，SUBAPI.cmliussss.net为 CM 的订阅转换功能。自建 psub 教程https://github.com/bulianglin/psub
 let subConfig = "https://raw.githubusercontent.com/kentuscn/ShellCrash/refs/heads/dev/rules/ShellClash_kt.ini"; //订阅配置文件
 let subProtocol = 'https';
 
